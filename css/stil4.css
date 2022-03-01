@@ -1,0 +1,48 @@
+body{
+    background-image: url(imagini/back3.png);
+}
+#adauga{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    width:500;
+    height:600;
+    box-shadow: 10px 10px 10px 8px gray;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+#sterge{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    width:500;
+    height:200;
+    box-shadow: 10px 10px 10px 8px gray;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+input[type=text], input[type=password]  {
+  width: 100%;
+  height: 35px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #bdb5e0;
+  border-radius: 5px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+input[type=submit]{
+    border: 2px solid #d4c7df;
+    border-radius: 5px;
+    height:40px;
+    width:120px;
+    background-color: #dcd2e5;
+}
+#input [type=submit]:focus{
+     border: 3px solid #555;
+}
+#input [type=text]:focus{
+     border: 3px solid #555;
+}
