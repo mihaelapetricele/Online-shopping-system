@@ -7,7 +7,7 @@
     • PHP
     • HTML
     • CSS
-    • MYSQL
+    • SQL
   
 **Description**
 
